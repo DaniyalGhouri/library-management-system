@@ -1,0 +1,17 @@
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Streamlit temporary files
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Ignore IDE and OS files
+.DS_Store
+.vscode/
+.idea/
