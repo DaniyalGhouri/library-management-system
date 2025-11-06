@@ -1,0 +1,18 @@
+[
+    {
+        "title": "python crash course",
+        "Author": "fredrick",
+        "Genre": "Other",
+        "Read-Status": true,
+        "Publication_year": 2023,
+        "added_date": "2025-06-14 03:19:46"
+    },
+    {
+        "title": "phsycology",
+        "Author": "daniyal",
+        "Genre": "Science",
+        "Read-Status": false,
+        "Publication_year": 2018,
+        "added_date": "2025-10-31 12:51:40"
+    }
+]
