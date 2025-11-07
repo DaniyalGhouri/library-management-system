@@ -445,7 +445,7 @@ st.markdown(
     .main-header{
         font-size: 2.5rem;
         font-weight: bold;
-        color: #4B0082;
+        color: #4B0082 !important; 
         text-align: center;
         margin-top: 20px;
         margin-bottom: 20px;
